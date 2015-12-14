@@ -4,7 +4,7 @@ https://github.com/jonathanstark/android-book-example-files/edit/master/ch02/ind
 
 <html>
     <head>
-        <title>Jonathan Stark</title>
+        <title>Amit Brahmbhatt</title>
         <meta name="viewport" content="user-scalable=no, width=device-width" />
         <link rel="stylesheet" type="text/css" href="android.css" media="only screen and (max-width: 600px)" />
         <link rel="stylesheet" type="text/css" href="desktop.css" media="screen and (min-width: 601px)" />
@@ -36,11 +36,13 @@ https://github.com/jonathanstark/android-book-example-files/edit/master/ch02/ind
             </div>
             <div id="content">
                 <h2>About</h2>
-                <p>Jonathan Stark is a web developer, speaker, and author. His consulting firm, Jonathan Stark Consulting, Inc., has attracted clients such as Staples, Turner Broadcasting, and the PGA Tour. ...</p>
+                <p>Amit Brahmbhatt is a QA Analyst, Software Engineer, and trainer. His consulting experience include working
+                with Cigna, Independence Blue Cross, Blue Shield of California, Community Health Systems and Carefirst. ...</p>
             </div>
             <div id="sidebar">
-                <img alt="Manga Portrait of Jonathan Stark" src="jonathanstark-manga-small.png">
-                <p>Jonathan Stark is a mobile and web application developer who the Wall Street Journal has called an expert on publishing desktop data to the web.</p>
+                <img alt="Manga Portrait of Amit Brahmbhatt" src="ab-small.png">
+                <p>Amit Brahmbhatt is a mobile and web application tester who has been working with developing study programs
+                for Selenium.</p>
             </div>
             <div id="footer">
                 <ul>
@@ -48,7 +50,7 @@ https://github.com/jonathanstark/android-book-example-files/edit/master/ch02/ind
                     <li><a href="about.html">About</a></li>
                     <li><a href="blog.html">Blog</a></li>
                 </ul>
-                <p class="subtle">Jonathan Stark Consulting, Inc.</p>
+                <p class="subtle">ABC, Inc.</p>
             </div>
         </div>
     </body>
