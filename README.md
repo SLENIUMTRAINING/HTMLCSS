@@ -1,7 +1,3 @@
-# HTMLCSS
-examples for html css
-
-
 <html>
     <head>
         <title>Amit Brahmbhatt</title>
@@ -17,7 +13,7 @@ examples for html css
     <body>
         <div id="container">
             <div id="header">
-                <h1><a href="./">Jonathan Stark</a></h1>
+                <h1><a href="./">Amit Brahmbhatt</a></h1>
                 <div id="utility">
                     <ul>
                         <li><a href="about.html">About</a></li>
