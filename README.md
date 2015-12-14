@@ -26,8 +26,7 @@
                         <li><a href="consulting-clinic.html">Consulting Clinic</a></li>
                         <li><a href="on-call.html">On Call</a></li>
                         <li><a href="development.html">Development</a></li>
-                        <li><a href="http://www.oreilly.com">O'Reilly Media, Inc.</a></li>
-                    </ul>
+                      </ul>
                 </div>
             </div>
             <div id="content">
