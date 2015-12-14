@@ -1,6 +1,6 @@
 # HTMLCSS
 examples for html css
-https://github.com/jonathanstark/android-book-example-files/edit/master/ch02/index.html
+
 
 <html>
     <head>
